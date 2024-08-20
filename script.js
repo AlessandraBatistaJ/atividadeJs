@@ -7,9 +7,9 @@ titulo.innerText = "Adicionando título com Js"
 const elementoUl = document.querySelector("ul")
 console.log(elementoUl)
 elementoUl.innerHTML = `
-    <li>Item 01</li>
-    <li>Item 02</li>
-    <li>Item 03</li>
+    <li>Item 01 - Talent Joy</li>
+    <li>Item 02 - W3 Schools</li>
+    <li>Item 03 - Objetos Js</li>
 `
 
 // a
